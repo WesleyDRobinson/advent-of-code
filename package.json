@@ -1,0 +1,23 @@
+{
+  "name": "advent-of-code",
+  "scripts": {
+    "test": "ava --verbose --color"
+  },
+  "devDependencies": {
+    "ava": "^0.24.0"
+  },
+  "version": "1.0.0",
+  "description": "solutions and tests for http://adventofcode.com/2017",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WesleyDRobinson/advent-of-code.git"
+  },
+  "author": {
+    "name": "wesley",
+    "email": "robinson.wesleyd@gmail.com",
+    "url": "https://www.wesley.tech/coding-box"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/WesleyDRobinson/advent-of-code#readme"
+}
